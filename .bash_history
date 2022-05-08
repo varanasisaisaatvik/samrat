@@ -1,0 +1,2 @@
+su maha
+git pull
